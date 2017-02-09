@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+.sass-cache/*
+Thumbs.db
+node_modules/*
+react-mui-sample/node_modules
